@@ -132,7 +132,7 @@ To enable MQGS safely:
 4. Use the sample template to understand the required format.
 5. Validate your data automatically.
 6. Export the Moodle XML file.
-7. Import the XML file into Moodle Question Bank.
+Import the XML file into Moodle Question Bank.
 Configurable essay attachment file restrictions with support for common document, image, audio, video, and archive formats.
 
 ## 📁 Project Structure
