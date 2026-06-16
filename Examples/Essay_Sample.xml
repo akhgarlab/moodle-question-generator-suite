@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+<question type="essay">
+<name>
+<text>Moodle Q</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[Explain the benefits of using Moodle in higher education.]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[Answers should discuss collaboration, accessibility, and innovation.]]></text>
+</generalfeedback>
+<defaultgrade>3</defaultgrade>
+<penalty>0</penalty>
+<hidden>0</hidden>
+<responseformat>editor</responseformat>
+<responserequired>1</responserequired>
+<responsefieldlines>5</responsefieldlines>
+<attachments>1</attachments>
+<attachmentsrequired>0</attachmentsrequired>
+<filetypeslist>.docx,.pdf,.jpg,.zip</filetypeslist>
+<graderinfo format="html">
+<text><![CDATA[]]></text>
+</graderinfo>
+</question>
+</quiz>

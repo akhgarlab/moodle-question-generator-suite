@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="multichoice">
+<name>
+<text>XML Basics</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[What does XML stand for?]]></text>
+</questiontext>
+<defaultgrade>1</defaultgrade>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[Extensible Markup Language]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[Extra Memory Link]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[Extended Media List]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[External Module Language]]></text>
+</answer>
+<generalfeedback format="html">
+<text><![CDATA[]]></text>
+</generalfeedback>
+</question>
+</quiz>
