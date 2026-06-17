@@ -20,7 +20,7 @@ A professional Excel VBA toolkit designed for educators, universities, and Moodl
 
 <p align="center">
 
-![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Version](https://img.shields.io/badge/version-v1.0.1-blue)
 ![License](https://img.shields.io/badge/license-GPL--3.0-green)
 ![Platform](https://img.shields.io/badge/platform-Microsoft_Excel-darkgreen)
 ![Moodle](https://img.shields.io/badge/Moodle-Compatible-orange)
@@ -140,8 +140,8 @@ To enable MQGS safely:
 moodle-question-generator-suite/
 │
 ├── Templates/
-│   ├── MQGS_MCQ_Community_v1.0.0.xlsm
-│   └── MQGS_Essay_Community_v1.0.0.xlsm
+│   ├── MQGS_MCQ_Community_v1.0.1.xlsm
+│   └── MQGS_Essay_Community_v1.0.1.xlsm
 │
 ├── Examples/
 │   ├── MCQ_Sample.xml
